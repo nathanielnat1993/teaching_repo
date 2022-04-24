@@ -1,2 +1,2 @@
-print("Collin Paschall")
-print("Collin E. Paschall")
+print("Collin Paschall is awesome.")
+print("Collin E. Paschall is awesome")
